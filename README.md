@@ -1,4 +1,4 @@
 # Would-you-moo-me-too-
 A small tribute to pretty animals around us!
 
-the gallery page uses lightbox extesnions for image preview..   
+The gallery page uses Lightbox extesnions for image preview..   
